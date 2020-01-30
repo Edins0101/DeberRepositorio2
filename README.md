@@ -1,0 +1,2 @@
+# Fotos
+Se guardaran fotos
